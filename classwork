@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>""
+</head>
+<body>
+
+  <img src="C:\Users\ashu\Downloads\2e906ae1f95f9396643d5360a02a6468.jpg"
+<a href="target"_parent">read more abut me </a>
+
+<table>
+    <caption>student</caption>
+    <tr>
+      <th>first name</th>
+      <th>last name</th>
+      <th>age</th>
+      <th>number</th>
+    </tr>
+    <tr>
+      <td>Gursimran </td>
+      <td>Singh</td>
+      <td>20</td>
+      <td>number</td>
+    </tr>
+  </table>
