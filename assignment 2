@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <title>student</title>
+    </head> <body>
+    <h1>My photos </h1>
+    
+    
+    <table>
+    <caption><strong>student</strong></caption>
+    <th>First name</th>
+    <th>last name</th>
+    <th>age</th>
+    <th>gender</th>
+    </tr>
+    <tr>
+    <td>Gursimran</td>
+    <td>Singh</td>
+    <td>20</td>
+    <td>Male</td>
+    </table>
+    </p1>
+    <p2>
+    <IMG SRC="G1.JPG" alt="my picture">
+    <IMG SRC="G2.JPG" alt="my picture">
+    <IMG SRC="G3.JPG" alt="my picture">
+    <IMG SRC="g4.JPG" alt="my picture">
+    </p2>
+    
+    
+    <p3>
+    <br>
+    <strong>HOBBIES</strong>
+    <ol>
+        <LI>Working out</LI>
+    <li>Music</li>
+    <li>Travelling</li>
+    </O>
+    </p3>
+    </body> </html>
